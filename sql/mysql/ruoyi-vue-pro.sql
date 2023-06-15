@@ -13,7 +13,7 @@
 
  Date: 13/04/2023 23:37:01
 */
-
+use `ruoyi-vue-pro`;
 SET NAMES utf8mb4;
 SET FOREIGN_KEY_CHECKS = 0;
 
